@@ -6,6 +6,7 @@ django-webtest>=1.7.5
 flake8
 mock>=1.0.1
 modernize
+pep8
 pytest
 pytest-cache
 pytest-cov
