@@ -1,3 +1,4 @@
+setuptools>=15.0
 autopep8
 ipython
 isort
