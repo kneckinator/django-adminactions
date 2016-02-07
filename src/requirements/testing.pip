@@ -19,4 +19,6 @@ readme
 selenium>=2.42.0
 setuptools>=15.0
 tox
+unicodecsv
 WebTest>=2.0.7
+xlwt
