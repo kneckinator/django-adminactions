@@ -22,4 +22,5 @@ setuptools>=15.0
 tox
 unicodecsv
 WebTest>=2.0.7
+xlrd
 xlwt
