@@ -3,6 +3,7 @@ check-manifest
 docutils
 django-dynamic-fixture
 django-webtest>=1.7.5
+fancycompleter
 flake8
 mock>=1.0.1
 modernize
