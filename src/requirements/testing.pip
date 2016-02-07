@@ -5,6 +5,7 @@ django-dynamic-fixture
 django-webtest>=1.7.5
 fancycompleter
 flake8
+funcsigs
 mock>=1.0.1
 modernize
 pep8
